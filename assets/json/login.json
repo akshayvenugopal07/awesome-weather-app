@@ -1,0 +1,9 @@
+{
+    "status": "Success",
+    "Message": "Successfully logged in",
+    "data": {
+        "first": "Akshay",
+        "last": "Venugopal",
+        "token": "2545674xges6b54674beb67445b7"
+    }
+}
